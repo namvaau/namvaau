@@ -333,7 +333,7 @@ ul li a:hover {
 
 /* cources */
 .cources {
-    background: url(../images/bg_taiLieu.png);
+    background-image: url(../images/bg_taiLieu.png);
 }
 
 #cources_active {
